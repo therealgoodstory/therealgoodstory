@@ -1,7 +1,7 @@
 Hi 👋 My name is Vitalii Viatkin
 ================================
 
-Frontend developer && UI/UX Designer
+Technical artist
 ------------------------------------
 
 * 🌍  I'm based in Beograd
